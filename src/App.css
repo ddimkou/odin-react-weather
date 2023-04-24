@@ -81,6 +81,8 @@ body.clouds {
 .top button {
   padding: 0.3rem;
   background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  margin-left: 1rem;
   outline: none;
   border: none;
   border-radius: 10px;
